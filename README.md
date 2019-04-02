@@ -5,8 +5,8 @@ A Sublime package to copy file's info from the sidebar.
 * Copy Path
 * Copy Relative Path
 
-# Screenshot
-
+# Screenshot:
+![context menu](https://raw.githubusercontent.com/pjmp/SublimeCopyFileInfo/master/context-menu.png)
 # Installation
 
 ### Using Package Control:
